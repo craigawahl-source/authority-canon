@@ -1,19 +1,15 @@
-# The LAW Model
+# Framework: The LAW Model
 
-## Definition
-A 3-phase leadership system (Lead, Accelerate, Win) designed for high-growth environments.
+**Definition:** The operating structure for the Leadership Alignment Workshop. Anchors leadership in sustainable alignment rather than short-term compliance.
 
-## Components
-1. **Lead:** Establish structural clarity and alignment.
-2. **Accelerate:** Remove friction and operationalize momentum.
-3. **Win:** Institutionalize resilience and scale without heroism.
-- 10 workshop sessions mapping to specific behavioral shifts.
+**Components:**
+- **L – Lead with clarity**
+- **A – Align the system**
+- **W – Win the long game**
 
-## Function
-Turns misalignment, friction, and pressure into structural clarity.
-
-## Application Context
-In-person leadership accelerators, corporate licensing, Day 90 retakes.
-
-## What It Replaces
-Ad-hoc scaling, hero-leader dependency, and randomization.
+**Application Context:** Leadership Alignment Workshop.
+**Boundary Note:** This framework is exclusive to the Alignment Workshop. The Accelerator Workshop now operates on the WALK Model.
+**Downstream Use Signal:** 
+- Stephen: Foundational articles on alignment, clarity, and systemic trust.
+- Stanley: Introductory video content establishing the baseline leadership architecture.
+- Maya: Conversion copy for the Alignment Workshop entry point.
